@@ -1,7 +1,7 @@
 # Angular cli una guia de consulta
 
 Esta guia es una traduccion en Español del sitio de angular.dev.
-Lo que trata esta guia es de resumir o orientar a los usuarios de una guia rapida de comandos
+Lo que trata esta guia es de resumir y proveer  a los usuarios de una guia rapida de comandos angular-cli
 de angular-cli que puedan utilizar
 
 ## Instalacion de Angular Cli
