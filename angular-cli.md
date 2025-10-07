@@ -28,3 +28,18 @@ ng serve --open
 El comando ng server compila y lanza un servidor de aplicaciones ubicado en  http://localhost:4200/
 El flag --open (-o) abrira el navegador por defecto en http://localhost:4200/
 
+### Creacion de componentes
+Podemos crear componentes, directivas, pipes servicios con ng generate
+~~~
+ng generate component <nombre>
+~~~
+
+### Ejecucion de test
+~~~
+ng test
+~~~
+
+### despliegue de aplicacion
+~~~
+ng deploy
+~~~
