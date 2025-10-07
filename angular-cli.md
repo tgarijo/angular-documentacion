@@ -39,7 +39,7 @@ ng generate component <nombre>
 ng test
 ~~~
 
-### despliegue de aplicacion
+### Despliegue de aplicacion
 ~~~
 ng deploy
 ~~~
